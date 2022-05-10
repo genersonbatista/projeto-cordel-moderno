@@ -40,15 +40,27 @@ header > h1{
 header > p{
     padding-bottom: 50px;
 }
-
-header a, footer a {
+header{
     color: white;
     text-decoration: none;
     font-weight: bolder;
 }
 
+footer{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+a{
+    color: rgb(46, 44, 165);
+    text-decoration: none;
+}
+
+
  header a:hover, footer a:hover {
     text-decoration: underline;
+    color: blueviolet;
 }
 
 section{
