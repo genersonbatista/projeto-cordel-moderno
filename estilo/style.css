@@ -53,14 +53,14 @@ footer{
 }
 
 a{
-    color: rgb(46, 44, 165);
+    color: rgb(226, 65, 65);
     text-decoration: none;
 }
 
 
  header a:hover, footer a:hover {
     text-decoration: underline;
-    color: blueviolet;
+    color: rgb(123, 224, 77);
 }
 
 section{
